@@ -1,5 +1,5 @@
 # resumo-do-lab.
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO (Microsoft Azure) part 1
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO (Beneficios da Computação em Nuvem) part 1 - Microsoft Azure
 
 Durante o desenvolvimento deste lab, aprendi os principais conceitos relacionados à computação em nuvem e ao Microsoft Azure, incluindo:
 
@@ -27,7 +27,7 @@ Inteligência Artificial
 
 -----------------------------------------------------------------------------------------------------------------------------------------------part 2
 
-📌 Resumo do Aprendizado (Criando máquinas virtuais na Azure
+📌 Resumo do Aprendizado (Criando máquinas virtuais na Azure)
 
 -Consolidação de conhecimentos em máquinas virtuais da Azure: compreender como criar, configurar e gerenciar VMs na nuvem.
 -Aplicação prática: colocar em prática os conceitos aprendidos nas aulas em um ambiente real.
