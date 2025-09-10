@@ -29,8 +29,29 @@ Inteligência Artificial
 
 📌 Resumo do Aprendizado (Criando máquinas virtuais na Azure)
 
--Consolidação de conhecimentos em máquinas virtuais da Azure: compreender como criar, configurar e gerenciar VMs na nuvem.
--Aplicação prática: colocar em prática os conceitos aprendidos nas aulas em um ambiente real.
--Documentação técnica: aprender a registrar os processos realizados de forma clara e estruturada.
--Uso do GitHub: utilizar a plataforma como ferramenta de versionamento e compartilhamento de documentação técnica.
--Organização de evidências: manter arquivos relevantes e capturas de tela organizados para comprovar a execução do desafio.
+- Consolidação de conhecimentos em máquinas virtuais da Azure: 
+Compreender como criar, configurar e gerenciar VMs na nuvem.
+
+- Aplicação prática: 
+Colocar em prática os conceitos aprendidos nas aulas em um ambiente real.
+
+- Documentação técnica: 
+Aprender a registrar os processos realizados de forma clara e estruturada.
+
+- Uso do GitHub: 
+Utilizar a plataforma como ferramenta de versionamento e compartilhamento de documentação técnica.
+
+- Organização de evidências: 
+Manter arquivos relevantes e capturas de tela organizados para comprovar a execução do desafio.
+
+📌 Resumo do Aprendizado (Configurando uma instância de Banco de Dados na Azure)
+
+A visão geral da plataforma Azure e sua importância no mercado de cloud computing;
+
+A diferenciação entre os modelos IaaS, PaaS e SaaS e como cada um deles se aplica;
+
+Exemplos práticos de serviços, como banco de dados, máquinas virtuais, armazenamento e redes;
+
+Benefícios da nuvem, incluindo escalabilidade, flexibilidade, segurança e custo sob demanda;
+
+A importância de entender o modelo de responsabilidade compartilhada, em que parte da responsabilidade é do provedor e parte do cliente.
