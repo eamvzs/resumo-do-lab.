@@ -215,3 +215,80 @@ Uso de exercícios de lógica para entender a relação entre serviços no Azure
 Simulação de fluxos de dados e processos automatizados.
 
 Raciocínio computacional aplicado a situações reais de nuvem.
+-----------------------------------------------------------------------------------------------------------------------------------------------part 4
+
+
+📘 Curso: Gerenciamento de Custos na Azure
+
+O que foi aprendido:
+
+Como monitorar e analisar os custos dos serviços no Azure.
+
+A criar alertas de orçamento.
+
+Usar o Azure Cost Management para visualizar gastos por recurso, grupo ou assinatura.
+
+💻 Desafio de projeto: Otimizando Custos no Azure
+
+O que foi aplicado:
+
+Estratégias práticas para reduzir gastos no Azure.
+
+Otimização com base em reservas, dimensionamento correto e desligamento de recursos ociosos.
+
+Comparação de cenários usando a Calculadora de Preços do Azure.
+
+
+📘 Curso: Primeiros Passos com Governança e Conformidade na Azure
+
+O que foi aprendido:
+
+O que é governança em nuvem.
+
+Uso de Azure Policy, BluePrints, Resource Locks e tags para controle e conformidade.
+
+Como manter um ambiente seguro e organizado.
+
+💻 Desafio de projeto: Gerenciando Políticas em Acessos Azure
+
+O que foi aplicado:
+
+Políticas para controlar acesso e permissões.
+
+Configuração de Role-Based Access Control (RBAC).
+
+Garantia de que os usuários tenham apenas os acessos necessários.
+
+ 
+📘 Curso: Ferramentas de Gerenciamento e Implantação Azure
+
+O que foi aprendido:
+
+Como automatizar a criação e configuração de recursos com ARM templates.
+
+Uso do Azure Portal, CLI, PowerShell e Cloud Shell para gerenciamento.
+
+💻 Desafio de projeto: Ferramentas de Implantação na Azure
+
+O que foi aplicado:
+
+Criação prática de ambientes com ferramentas como Azure Resource Manager.
+
+Comparação entre diferentes métodos de implantação.
+
+
+📘 Curso: Ferramentas de Monitoramento Azure
+
+O que foi aprendido:
+
+Como usar o Azure Monitor, Log Analytics, Application Insights.
+
+Criação de alertas, painéis (dashboards) e consultas de log.
+
+💻 Desafio de projeto: Monitoramento Inteligente com o Azure
+
+O que foi aplicado:
+
+Implementação de soluções de monitoramento em tempo real.
+
+Acompanhamento de métricas e logs para detectar e agir rapidamente sobre problemas.
